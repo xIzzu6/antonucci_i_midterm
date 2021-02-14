@@ -1,0 +1,27 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246.01 246.01">
+  <defs>
+    <style>
+      .cls-1 { fill: #231f20; stroke: #231f20; stroke-miterlimit: 10; }
+      .cls-2 { font-size: 23px; fill: #fff; font-family: FranklinGothic-Demi, Franklin Gothic Demi; font-weight: 300; }
+      .cls-3 { letter-spacing: -0.01em; }
+
+      #cls-1
+      {
+        cursor: pointer;
+      }
+
+      #cls-1:hover
+      {
+        fill: #f6cb32 !important;
+      }
+
+    </style>
+  </defs>
+
+  <circle class="cls-1" cx="123.01" cy="123.01" r="122.51"/>
+  <text class="cls-2" transform="translate(58.41 97.17)">ALL ORDERS
+    <tspan class="cls-3" x="13.8" y="27.6">O</tspan>
+    <tspan x="28.18" y="27.6">VER $50</tspan>
+    <tspan x="16.83" y="55.2">20% OFF!</tspan>
+  </text>
+</svg>
